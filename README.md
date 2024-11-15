@@ -1,5 +1,11 @@
 # Introduction
 
+This is a repo to analyze wight vs hight
+
+
+
+
+---------------------
 This repository provides a structured template for starting a new analytical project. It is designed with the following priorities in mind:
 
 1. **Reproducibility**: Ensure that analyses are easily reproducible with a clear folder structure and environmental setup guidelines.
